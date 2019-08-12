@@ -2,9 +2,9 @@ package talkiepi
 
 import (
 	"fmt"
-	"github.com/dchote/gumble/gumble"
-	"github.com/dchote/gumble/gumbleopenal"
-	"github.com/dchote/gumble/gumbleutil"
+	"github.com/layeh/gumble/gumble"
+	"github.com/layeh/gumble/gumbleopenal"
+	"github.com/layeh/gumble/gumbleutil"
 	"github.com/kennygrant/sanitize"
 	"net"
 	"os"
