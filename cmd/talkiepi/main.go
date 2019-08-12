@@ -6,6 +6,7 @@ import (
 	"flag"
 	"fmt"
 	"layeh.com/gumble/gumble"
+	"layeh.com/gopus"
 	_ "layeh.com/gumble/opus"
 	"github.com/joshshane/talkiepi"
 	"os"
